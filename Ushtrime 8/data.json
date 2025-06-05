@@ -1,0 +1,32 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john@example.com",
+      "age": 20,
+      "course": "Computer Science"
+    },
+    {
+      "id": 3,
+      "name": "Alice Johnson",
+      "email": "alice@example.com",
+      "age": 21,
+      "course": "Physics"
+    },
+    {
+      "id": 4,
+      "name": "Ardi",
+      "email": "ardiqestaj@gmail.com",
+      "age": "60",
+      "course": "Nodejs"
+    },
+    {
+      "id": 5,
+      "name": "Ardi2",
+      "email": "ardiqestaj2@gmail.com",
+      "age": "60",
+      "course": "Nodejssd"
+    }
+  ]
+}
