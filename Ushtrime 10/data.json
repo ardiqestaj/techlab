@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "name": "Paris",
+    "country": "France",
+    "attractions": [
+      "Eiffel Tower",
+      "Louvre Museum",
+      "Notre-Dame Cathedral",
+      "Notre-Dame gfdg"
+    ],
+    "average_cost": 1500,
+    "rating": 4.9,
+    "visitors": 30000000,
+    "average_stay": 5,
+    "best_season": "Spring",
+    "image": "https://picsum.photos/id/1015/500/300"
+  },
+  {
+    "id": 2,
+    "name": "Tokyo",
+    "country": "Japan",
+    "attractions": ["Shinjuku", "Mount Fuji", "Akihabara"],
+    "average_cost": 1800,
+    "rating": 4.8,
+    "visitors": 25000000,
+    "average_stay": 7,
+    "best_season": "Autumn",
+    "image": "https://picsum.photos/id/1025/500/300"
+  },
+  {
+    "id": 3,
+    "name": "New York",
+    "country": "USA",
+    "attractions": ["Statue of Liberty", "Central Park", "Times Square"],
+    "average_cost": 2000,
+    "rating": 4.7,
+    "visitors": 32000000,
+    "average_stay": 6,
+    "best_season": "Winter",
+    "image": "https://picsum.photos/id/1035/500/300"
+  }
+]
